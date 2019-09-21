@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game_app/static/css/main.c18ee8fc.chunk.css",
+    "main.js": "/game_app/static/js/main.f6af5341.chunk.js",
+    "main.js.map": "/game_app/static/js/main.f6af5341.chunk.js.map",
+    "runtime-main.js": "/game_app/static/js/runtime-main.a0267945.js",
+    "runtime-main.js.map": "/game_app/static/js/runtime-main.a0267945.js.map",
+    "static/js/2.13a082d6.chunk.js": "/game_app/static/js/2.13a082d6.chunk.js",
+    "static/js/2.13a082d6.chunk.js.map": "/game_app/static/js/2.13a082d6.chunk.js.map",
+    "index.html": "/game_app/index.html",
+    "precache-manifest.ae315d93f5655efd5ac27da744c917e7.js": "/game_app/precache-manifest.ae315d93f5655efd5ac27da744c917e7.js",
+    "service-worker.js": "/game_app/service-worker.js",
+    "static/css/main.c18ee8fc.chunk.css.map": "/game_app/static/css/main.c18ee8fc.chunk.css.map"
+  }
+}
